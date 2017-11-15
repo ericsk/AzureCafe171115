@@ -8,7 +8,7 @@
 
 ## Steps
 
-1. 在 Azure 上建立一台 **Data Science Virtual Machine (Linux)**。建議啟用選項：
+1. 在 Azure 上建立一台 **Data Science Virtual Machine (Linux) for Ubuntu**。建議啟用選項：
   - HDD 磁碟型態，以便選擇 NC6 系列機器
   - 地區選擇**美國中南部** (因為 GPU 系列主機最多選擇)
   - 用密碼登入 (為了 Azure Machine Learning 的工具)
